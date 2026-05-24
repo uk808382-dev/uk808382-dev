@@ -43,9 +43,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uk808832-dev&show_icons=true&theme=tokyonight" height="180em"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uk08832-dev&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uk808832-dev&layout=compact&theme=tokyonight" height="180em"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uk08832-dev&layout=compact&theme=tokyonight)
 
 </p>
 
