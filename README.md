@@ -1,4 +1,4 @@
-# Hi, I'm Umar 👋
+# Hi, I'm Muhammad Umar 👋
 
 ## 💻 About Me
 
