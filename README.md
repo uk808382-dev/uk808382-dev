@@ -1,50 +1,84 @@
-# Hi, I'm Muhammad Umar 👋
-
-## 💻 About Me
-
-- 🎓 BS Computer Science Student at COMSATS University
-- 🚀 Interested in Software Development and Web Development
-- 🌱 Currently learning Data Structures, Algorithms, and Full-Stack Development
-- 🛠️ Building practical projects to improve real-world coding skills
+<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
+<h3 align="center">BS Computer Science Student | Software Developer | Problem Solver</h3>
 
 ---
 
-## 🧰 Tech Stack
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=uk808832-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+---
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+## 🚀 About Me
 
-### Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+- 🎓 BS Computer Science Student at COMSATS University
+- 💻 Passionate about Software Development
+- 🌱 Currently learning Full-Stack Development & DSA
+- 🛠️ Building practical projects and improving coding skills
+- ⚡ Goal: Become a strong Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/uk808832-dev" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,mysql,git,vscode" />
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uk808832-dev&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uk808832-dev&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=uk808832-dev&show_icons=true&theme=tokyonight" height="180em"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uk808832-dev&layout=compact&theme=tokyonight" height="180em"/>
 
-## 📌 Current Goals
-
-- Improve problem solving skills
-- Build strong full-stack projects
-- Learn advanced backend development
-- Contribute to open source
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- GitHub: https://github.com/uk808832-dev
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uk808832-dev&theme=tokyonight" />
+
+</p>
+
+---
+
+## 📌 Current Focus
+
+```txt
+✔ Data Structures & Algorithms
+✔ Full-Stack Development
+✔ Real-World Projects
+✔ Problem Solving
+✔ Clean Code Practices
+```
+
+---
+
+## 🧠 Quote
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/uk808832-dev">Umar</a>
+</p>
