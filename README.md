@@ -1,26 +1,22 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
 
 <h3 align="center">
-A Passionate Computer Science Student & Software Developer from Pakistan
+BS Computer Science Student | Software Developer | Problem Solver
 </h3>
 
----
-
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Learning+Data+Structures+%26+Algorithms;Building+Real+World+Projects;Future+Software+Engineer" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=BS+Computer+Science+Student;Software+Developer;Full+Stack+Development+Learner;Data+Structures+%26+Algorithms;Python+%7C+C%2B%2B+%7C+JavaScript;Building+Real+World+Projects;Database+Systems+Learner;Clean+Code+Advocate;Problem+Solver;Future+Software+Engineer;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=uk08832-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=uk808382-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/uk08832-dev?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/uk808382-dev?label=Followers&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/uk08832-dev?label=Stars&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/uk808382-dev?label=Stars&style=for-the-badge" />
 
 </p>
 
@@ -28,16 +24,16 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 BS Computer Science Student at COMSATS University
-- 💻 Passionate about Software Development
-- 🌱 Currently Learning:
+- 💻 Passionate about Software Development & Web Development
+- 🌱 Currently learning:
   - Data Structures & Algorithms
   - Full Stack Development
   - Database Systems
-  - Problem Solving
-- 🚀 Building practical projects to improve real-world development skills
+  - Object Oriented Programming
+- 🚀 Building practical projects to improve real-world skills
 - ⚡ Goal: Become a Strong Software Engineer
 - 📍 Pakistan
 
@@ -47,15 +43,11 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="left">
 
-<a href="https://github.com/uk08832-dev" target="_blank">
+<a href="https://github.com/uk808382-dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:uk808382@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
@@ -67,7 +59,7 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,java,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode" />
 
 </p>
 
@@ -77,9 +69,9 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uk08832-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=uk808382-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uk08832-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uk808382-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,7 +81,7 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uk08832-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=uk808382-dev&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -99,7 +91,7 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=uk08832-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=uk808382-dev&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </p>
 
@@ -109,7 +101,7 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=uk08832-dev&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uk808382-dev&theme=tokyo-night&hide_border=true" />
 
 </p>
 
@@ -119,6 +111,7 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 
 ```yaml
 - Data Structures & Algorithms
+- Full Stack Development
 - Object Oriented Programming
 - Database Systems
 - React JS
@@ -133,15 +126,28 @@ A Passionate Computer Science Student & Software Developer from Pakistan
 ✔ Build Strong Projects  
 ✔ Improve Problem Solving  
 ✔ Learn Advanced Backend Development  
-✔ Contribute To Open Source  
 ✔ Become Internship Ready  
+✔ Contribute To Open Source  
 
 ---
 
-# ⚡ Fun Fact
+# 🚀 Featured Project Ideas
+
+- Student Management System
+- Portfolio Website
+- Expense Tracker
+- Weather App
+- Full Stack CRUD Application
+- Library Management System
+
+---
+
+# ⚡ Developer Mindset
 
 ```txt
-I believe consistency beats motivation.
+Consistency beats motivation.
+Clean code beats clever code.
+Real projects beat fake certificates.
 ```
 
 ---
@@ -156,8 +162,20 @@ I believe consistency beats motivation.
 
 ---
 
-<h3 align="center">
+# 💻 Coding Profiles
 
-⭐ From <a href="https://github.com/uk08832-dev">Umar</a>
+<p align="center">
 
-</h3>
+<a href="https://github.com/uk808382-dev">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
