@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umar</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 
 <h3 align="center">
 BS Computer Science Student | Software Developer | Full-Stack Development Learner
