@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
+<h1 align="center">Hi 👋, I'm Umar</h1>
 
 <h3 align="center">
 BS Computer Science Student | Software Developer | Full-Stack Development Learner
 </h3>
 
 <p align="center">
-  <b>Software Developer</b> • 
-  <b>Full-Stack Learner</b> • 
-  <b>DSA & Problem Solving</b> • 
-  <b>Backend Development</b> • 
-  <b>Building Real-World Projects</b>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Full-Stack+Development+Learner;Data+Structures+%26+Algorithms;Backend+Development;Problem+Solver;Building+Real-World+Projects;Clean+Code+Advocate;Future+Software+Engineer" />
+
 </p>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=uk808382-dev&label=Profile%20Views&color=blue&style=for-the-badge" />
+
 <img src="https://img.shields.io/github/followers/uk808382-dev?label=Followers&style=for-the-badge" />
+
 <img src="https://img.shields.io/github/stars/uk808382-dev?label=Stars&style=for-the-badge" />
+
 </p>
 
 ---
